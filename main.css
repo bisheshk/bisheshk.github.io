@@ -16,6 +16,10 @@ body {
     text-align: center;
     color: white;
 }
+#me-pic{
+    width: 300px
+    border: 2px solid #a2d0ff;
+}
 #main {
     padding: 5px;
     padding-left:  15px;
@@ -24,6 +28,7 @@ body {
     border-radius: 0 0 5px 5px;
 
 }
+
 
 h1 {
     font-weight: 500;
