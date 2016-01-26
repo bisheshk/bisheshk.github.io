@@ -28,6 +28,7 @@ body {
 */
 }
 #heading {
+    margin-top: 400px;
     text-align: center;
     color: white;
 }
@@ -66,5 +67,5 @@ h2 {
 }
 h3{
     color: white;
-    
+
 }
