@@ -4,6 +4,7 @@ body {
     font-size: 16px;
     /*background-color: blue; */
     padding: 0;
+    color:white;
     /*background-image: url(assets/redrocks.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -61,4 +62,9 @@ h2 {
     font-family: Lucida, sans-serif;
     color: white;
     font-size: 27px;
+
+}
+h3{
+    color: white;
+    
 }
