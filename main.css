@@ -3,8 +3,8 @@ body {
     font-family: "Trebuchet MS", Verdana, sans-serif;
     font-size: 16px;
     /*background-color: blue; */
-    padding: 3px;
-    background-image: url(tahoe.jpg);
+    padding: 0;
+    background-image: url(assets/redrocks.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 
@@ -16,11 +16,11 @@ body {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=1 );
 */
 }
-#heading{
+#heading {
     text-align: center;
     color: white;
 }
-#me-pic{
+#me-pic {
 
     padding-top: : 300px;
     width: 298px
@@ -35,8 +35,9 @@ body {
     color: white;
 
 }
-#link-line{
+#links-line {
     color: white;
+    word-spacing: 25px;
 }
 
 h1 {
