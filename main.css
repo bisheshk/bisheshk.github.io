@@ -3,9 +3,10 @@ body {
     font-family: "Trebuchet MS", Verdana, sans-serif;
     font-size: 16px;
     /*background-color: blue; */
-    color: #696969;
     padding: 3px;
-    background-image: url(/assets/tahoe.jpg);
+    background-image: url(tahoe.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 
 /*
     background: #002b55;
@@ -30,9 +31,12 @@ body {
     padding-right: 15px;
     text-align: center;
     border-radius: 0 0 5px 5px;
+    color: white;
 
 }
-
+#link-line{
+    color: white;
+}
 
 h1 {
     font-weight: 500;
