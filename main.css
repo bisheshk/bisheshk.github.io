@@ -48,6 +48,9 @@ body {
 
 }
 #links-line {
+    a {
+        color: white;
+    }
     font-weight: 200;
     color: white;
     word-spacing: 25px;
