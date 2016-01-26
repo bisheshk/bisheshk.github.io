@@ -9,13 +9,13 @@ body {
     background-size: 100% 100%;
     background-repeat: no-repeat;
     */
-    background-color:#269;
-    background-image: linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-    linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-    linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-    linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
-    linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a), 
-    linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a);
+    background-color:#736AFF;
+    background-image: linear-gradient(30deg, #2C3539 12%, transparent 12.5%, transparent 87%, #2C3539 87.5%, #2C3539),
+    linear-gradient(150deg, #2C3539 12%, transparent 12.5%, transparent 87%, #2C3539 87.5%, #2C3539),
+    linear-gradient(30deg, #2C3539 12%, transparent 12.5%, transparent 87%, #2C3539 87.5%, #2C3539),
+    linear-gradient(150deg, #2C3539 12%, transparent 12.5%, transparent 87%, #2C3539 87.5%, #2C3539),
+    linear-gradient(60deg, #0020C2 25%, transparent 25.5%, transparent 75%, #0020C2 75%, #0020C2), 
+    linear-gradient(60deg, #0020C2 25%, transparent 25.5%, transparent 75%, #0020C2 75%, #0020C2);
     background-size:80px 140px;
     background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
 
@@ -33,7 +33,7 @@ body {
 }
 #me-pic {
 
-    padding-top: : 300px;
+    padding-top: : 2C3539px;
     width: 298px
     border: 2px solid #a2d0ff;
 }
